@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a Ph.D. in Agricultural and Resource Economics at University of California, Davis
-- 🌱 I’m currently learning about development economics, environmental economics, and econometrics
+- 🌱 I’m currently learning about environmental economics, development economics, and econometrics
 <!--
 **mspitzerbrooks/mspitzerbrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
